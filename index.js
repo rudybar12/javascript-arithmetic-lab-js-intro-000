@@ -15,4 +15,7 @@ function divide(a, b){
   number = a / b;
   return a / b ;
 }
-funcion 
+funcion increment(a){
+  number = a + 1;
+  return a + 1
+}

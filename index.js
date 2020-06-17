@@ -25,5 +25,5 @@ function decrement(n){
 }
 function makeInt(n){
   number = parseInt(a,10);
-  return number 
+  return number
 }

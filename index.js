@@ -17,13 +17,13 @@ function divide(a, b){
 }
 function increment(n){
   number = n + 1;
-  return n + 1
+  return n + 1;
 }
 function decrement(n){
-  number = n -1
-  return n - 1
+  number = n -1;
+  return n - 1;
 }
-function makeInt(n){
-  number = parseInt(a,10);
-  return number
+function makeInt(a){
+  number = parseInt(a, 10);
+  return number;
 }
